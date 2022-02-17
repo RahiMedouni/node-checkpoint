@@ -21,4 +21,4 @@ console.log("HELLO WORLD");
 
 // When you are done, you must run:
 
-//    $ learnyounode verify hello-world.js
+//    $ learnyounode verify hello-world.js.
